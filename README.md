@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @drzz21<br>👀 I’m interested in coding, learning, reading<br>🌱 I’m currently deeping into ReactJS, NodeJS & AWS<br>💞️ I’m looking to collaborate on open source projects
+👋 Hi, I’m @drzz21<br>👀 I’m interested in coding, learning, reading<br>💞️ I’m looking to collaborate on open source projects
 
 [![](https://visitcount.itsvg.in/api?id=drzz21&icon=0&color=0)](https://visitcount.itsvg.in)
 
